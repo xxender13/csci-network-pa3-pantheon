@@ -1,0 +1,7 @@
+Scenario	Scheme	Avg_RTT(ms)	RTT_95th(ms)
+50Mbps_10ms	vegas	31065.9	60734.000
+50Mbps_10ms	cubic	32820.7	60291.564
+50Mbps_10ms	vivace	35646.4	60789.039
+1Mbps_200ms	vegas	31834.5	60233.000
+1Mbps_200ms	cubic	32301.6	60365.000
+1Mbps_200ms	vivace	32105.5	60288.000

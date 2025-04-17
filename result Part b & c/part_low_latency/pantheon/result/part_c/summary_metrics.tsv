@@ -1,0 +1,7 @@
+Scenario	Scheme	Avg_Throughput(Mbps)	RTT_95th(ms)
+50Mbps_10ms	vegas		
+50Mbps_10ms	cubic		
+50Mbps_10ms	vivace		
+1Mbps_200ms	vegas		
+1Mbps_200ms	cubic		
+1Mbps_200ms	vivace		
